@@ -1,4 +1,3 @@
-lalall
-super junior 
-elef
-不忧昨日，不期明日
+#AID1903 git 学习
+
+学习内容包括git  github
